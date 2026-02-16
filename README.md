@@ -61,19 +61,4 @@ I am a motivated **Diploma in Information Technology** student at the **Polytech
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
----
-
-<div align="center">
-  <small><i>"Career Made Great: Building the Next Generation of Digital Innovators"</i></small>
-</div>
