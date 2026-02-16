@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=250&section=header&text=Erik%20Christian%20C.%20Poyaoan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20@%20PUP%20Manila&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=250&section=header&text=Erik%20Christian%20C.%20Poyaoan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20@%20PUP%20Manila&descAlignY=55&descAlign=50" />
 
   <h3>Full-Stack Developer | Network Enthusiast | Tech Leader</h3>
   
