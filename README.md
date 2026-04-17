@@ -56,7 +56,7 @@ I am a motivated **Diploma in Information Technology** student at the **Polytech
 | :--- | :--- | :--- |
 | **CodeBrew System** | HTML, CSS, JS | A centralized web app for managing sales, inventory, and assets with role-based access for Admins and Cashiers. |
 | **Wild Horizons API** | Node.js | A custom-built server and API providing data on tourist attractions, descriptions, and geolocation. |
-| **Safe Route** | HTML, CSS | A mobile-first responsive admin login interface designed for a safety and navigation system. |
+| **Safe Route - Backend Architecture** | ExpressJS | A mobile-first responsive admin login interface designed for a safety and navigation system. |
 | **Tech Survey Panel** | TypeScript | A web-based survey system with a structured admin dashboard for data handling. |
 
 ---
