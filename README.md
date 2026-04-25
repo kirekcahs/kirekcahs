@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am a motivated **Diploma in Information Technology** student at the **Polytechnic University of the Philippines - Manila**, with a passion for building scalable web applications and exploring network engineering. I have hands-on professional experience as a **Software Development Intern** at *Hacktiv Colab Inc.*, where I specialized in Frontend Development.
+I am a motivated **Diploma in Information Technology** student at the **Polytechnic University of the Philippines - Manila**, with a passion for building scalable web applications and exploring network engineering. I have hands-on professional experience as a **Software Development Intern** at *Hacktiv Colab Inc.*, where I specialized in Frontend Development and also currently a **Software Developer Intern** at Intelliseven Technology Solutions, where I specialized as a Backend Developer.
 
 * 🔭 **I’m currently working on:** Full-stack web applications and Game Development logic.
 * 🌱 **I’m currently learning:** Backend Development (Express.js, Next.js) and AI Engineering.
